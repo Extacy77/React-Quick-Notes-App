@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/.github.io/React-Quick-Notes-App/static/css/main.3d0a8525.css",
-    "main.js": "/.github.io/React-Quick-Notes-App/static/js/main.dcc77a2a.js",
-    "index.html": "/.github.io/React-Quick-Notes-App/index.html",
-    "main.3d0a8525.css.map": "/.github.io/React-Quick-Notes-App/static/css/main.3d0a8525.css.map",
-    "main.dcc77a2a.js.map": "/.github.io/React-Quick-Notes-App/static/js/main.dcc77a2a.js.map"
+    "main.css": "/React-Quick-Notes-App/static/css/main.3d0a8525.css",
+    "main.js": "/React-Quick-Notes-App/static/js/main.dcc77a2a.js",
+    "index.html": "/React-Quick-Notes-App/index.html",
+    "main.3d0a8525.css.map": "/React-Quick-Notes-App/static/css/main.3d0a8525.css.map",
+    "main.dcc77a2a.js.map": "/React-Quick-Notes-App/static/js/main.dcc77a2a.js.map"
   },
   "entrypoints": [
     "static/css/main.3d0a8525.css",
